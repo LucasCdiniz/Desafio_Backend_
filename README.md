@@ -2,8 +2,8 @@
  
  <h1 align="left">Desafio Backend: App Gerenciador de Tarefas</h1>
  
- Caastro de Usuário:
-![](https://i.imgur.com/BMFunjX.gif)
+Cadastro de Usuários:
+https://drive.google.com/file/d/1fpPF5R1fL_dSgKqD-I3lHpEKjC7MgZdg/view?usp=sharing
 
  <h2>Ferramentas Utilizadas:</h2>
  
