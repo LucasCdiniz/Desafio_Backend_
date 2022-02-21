@@ -15,7 +15,7 @@ Requisitos Desenvolvidos:
 - [x] Listagem Específica pelo Status associados as Tarefas
 
 
-Link do deploy feito no Heroku:
+<b>Link do deploy feito no Heroku:</b>
 
  https://desafiobackendtarefas.herokuapp.com/
  
@@ -23,7 +23,7 @@ Link do deploy feito no Heroku:
  
  Senha: root
 
- <div dsplay="inline-block">
+
   
 Documentação do Swagger:
 
