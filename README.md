@@ -18,6 +18,8 @@ Requisitos Desenvolvidos:
 Link do deploy feito no Heroku:
 
  https://desafiobackendtarefas.herokuapp.com/
+ Nome de usuário: root
+ Senha: root
  
 Documentação do Swagger:
 
