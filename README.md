@@ -4,7 +4,7 @@
  
  Caastro de Usuário:
  <p align="center">
-  <img src="https://i.imgur.com/BMFunjX.gif" width="350">
+  <img src="![](https://i.imgur.com/BMFunjX.gif)" width="350">
 </p>
 
  <h2>Ferramentas Utilizadas:</h2>
