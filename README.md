@@ -2,10 +2,18 @@
  
  <h1 align="left">Desafio Backend: App Gerenciador de Tarefas</h1>
  
-Cadastro de Usuários:
-<p align="left">
-  <img src="https://i.imgur.com/CPzqbMJ.gif" width="720px", height="500px">
-</p>
+Requisitos Desenvolvidos:
+ 
+- [x] Cadastro e Login do suário
+- [x] Autenticação do usuário por meio de e-mail e senha
+- [x] Inclusão, Alteração e Exclusão de Tarefas
+- [x] Inclusão de um Status para a Tarefa (Pendente,Concluída e etc)
+- [x] Listagem de todas as Tarefas, Status e Usuários
+- [x] Listagens Específicas por Descrição e Prioridade das Tarefas
+- [x] Listagem Específica pelo Status associados as Tarefas
+ 
+ https://bityli.com/documentacaoswagger
+
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/wsCOnlCjs3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
  </iframe>
