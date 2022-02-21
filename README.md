@@ -3,9 +3,7 @@
  <h1 align="left">Desafio Backend: App Gerenciador de Tarefas</h1>
  
 Cadastro de Usuários:
-<p align="center">
- <blockquote class="imgur-embed-pub" lang="en" data-id="BMFunjX"><a href="https://imgur.com/BMFunjX">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</p>
+[img]https://i.imgur.com/BMFunjX.gif[/img]
 
  <h2>Ferramentas Utilizadas:</h2>
  
