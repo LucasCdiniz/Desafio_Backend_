@@ -1,6 +1,11 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Desafio Backend: App Gerenciador de Tarefas</h1>
+ 
+ Caastro de Usuário:
+ <p align="center">
+  <img src="https://i.imgur.com/BMFunjX.gif" width="350">
+</p>
 
  <h2>Ferramentas Utilizadas:</h2>
  
@@ -16,7 +21,7 @@
 </table>
 
  
- <h2>Contatos</h2>
+ <h2>Contatos:</h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/LucasCdiniz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/lucas-celestino-diniz)
