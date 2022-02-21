@@ -16,7 +16,7 @@ Requisitos Desenvolvidos:
 - [x] Listagem Específica pelo Status associados as Tarefas
 
 
-<b>Link do deploy feito no Heroku:</b>
+##Link do deploy feito no Heroku:##
 
  https://desafiobackendtarefas.herokuapp.com/
  
@@ -33,6 +33,10 @@ Documentação do Swagger:
 Link para a apresentação do Projeto sendo demonstrada no Postman:
 
  https://youtu.be/q5A1VgoyF9Q
+ 
+Link para o arquivo de texto - Breve Apresentação:
+ 
+ https://bityli.com/apresentacaoarquivodetexto
 
  <h2>Ferramentas Utilizadas:</h2>
  
