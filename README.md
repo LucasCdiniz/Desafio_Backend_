@@ -8,6 +8,7 @@ Requisitos Desenvolvidos:
  
 - [x] Cadastro e Login do suário
 - [x] Autenticação do usuário por meio de e-mail e senha
+- [x] Criptografia das senhas e a geração de um Token para o acesso
 - [x] Inclusão, Alteração e Exclusão de Tarefas
 - [x] Inclusão de um Status para a Tarefa (Pendente,Concluída e etc)
 - [x] Listagem de todas as Tarefas, Status e Usuários
@@ -15,13 +16,16 @@ Requisitos Desenvolvidos:
 - [x] Listagem Específica pelo Status associados as Tarefas
 
 
-Link do deploy feito no Heroku:
+<b>Link do deploy feito no Heroku:</b>
 
  https://desafiobackendtarefas.herokuapp.com/
  
- Nome de usuário: root
- /Senha: root
+ <b>Nome de usuário: root</b>
  
+ <b>Senha: root</b>
+
+
+  
 Documentação do Swagger:
 
  https://bityli.com/documentacaoswagger
