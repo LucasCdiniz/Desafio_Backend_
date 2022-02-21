@@ -14,6 +14,12 @@ Requisitos Desenvolvidos:
 - [x] Listagens Específicas por Descrição e Prioridade das Tarefas
 - [x] Listagem Específica pelo Status associados as Tarefas
 
+
+Link do deploy feito no Heroku:
+
+ https://desafiobackendtarefas.herokuapp.com/
+ Nome de usuário: root
+ Senha: root
  
 Documentação do Swagger:
 
