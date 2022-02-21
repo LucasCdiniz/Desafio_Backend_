@@ -19,7 +19,7 @@ Documentação do Swagger:
 
  https://bityli.com/documentacaoswagger
 
-Link para a apresentação do Projeto sendo apresentada no Postman:
+Link para a apresentação do Projeto sendo demonstrada no Postman:
 
  https://youtu.be/q5A1VgoyF9Q
 
