@@ -4,8 +4,12 @@
  
 Cadastro de Usuários:
 <p align="left">
-  <img src="https://i.imgur.com/CPzqbMJ.gif" width: '100%', height: '100%'>
+  <img src="https://i.imgur.com/CPzqbMJ.gif"width="350">
 </p>
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/wsCOnlCjs3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+ </iframe>
+ 
  <h2>Ferramentas Utilizadas:</h2>
  
  <table>
