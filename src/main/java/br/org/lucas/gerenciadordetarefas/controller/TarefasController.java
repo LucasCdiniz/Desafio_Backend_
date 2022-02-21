@@ -28,13 +28,11 @@ public class TarefasController {
 	@Autowired
 	private TarefasRepository tarefasRepository;
 	
-	//Lista todas as Tarefas cadastradas
 	@GetMapping
 	public ResponseEntity <List<Tarefas>> getAll(){
 		return ResponseEntity.ok(tarefasRepository.findAll());
 	}
 	
-	//Filtra as tarefas informando o id de uma determinada Tarefa
 	@GetMapping("/{id}")
 	public ResponseEntity <Tarefas> getById(@PathVariable Long id){
 		return tarefasRepository.findById(id)
@@ -42,25 +40,21 @@ public class TarefasController {
 				.orElse(ResponseEntity.notFound().build());
 	}
 	
-	//Filtra as tarefas pela descrição
 	@GetMapping("/descricao/{descricao}")
 	public ResponseEntity <List<Tarefas>> getByDescricao(@PathVariable String descricao){
 		return ResponseEntity.ok(tarefasRepository.findAllByDescricaoContainingIgnoreCase(descricao));
 	}
 	
-	//Filtra as tarefas pela descrição
 	@GetMapping("/prioridade/{prioridade}")
 	public ResponseEntity <List<Tarefas>> getByPrioridade(@PathVariable String prioridade){
 		return ResponseEntity.ok(tarefasRepository.findAllByPrioridadeContainingIgnoreCase(prioridade));
 	}
 	
-	//Inclusão de novas Tarefas
 	@PostMapping
 	public ResponseEntity <Tarefas> postTarefas(@Valid @RequestBody Tarefas tarefas){
 		return ResponseEntity.status(HttpStatus.CREATED).body(tarefasRepository.save(tarefas));
 	}
 	
-	//Atualização de Tarefas
 	@PutMapping
 	public ResponseEntity <Tarefas> putTarefas(@Valid @RequestBody Tarefas tarefas){
 		
@@ -69,7 +63,6 @@ public class TarefasController {
 				.orElse(ResponseEntity.status(HttpStatus.BAD_REQUEST).build());
 	}
 	
-	//Exclusão de Tarefas
 	@DeleteMapping("/{id}")
 	public ResponseEntity<?> deleteTarefas(@PathVariable long id) {
 		return tarefasRepository.findById(id)

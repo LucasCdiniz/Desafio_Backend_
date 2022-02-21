@@ -22,8 +22,8 @@ public class StatusTarefas {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
 	
-	@NotBlank(message = "O atributo Prioridade não pode ser nulo ou vazio!")
-	@Size(min = 5, max = 50, message = "O atributo título deve ter no mínimo 5 e no máximo 50 caracteres")
+	@NotBlank(message = "O atributo Status não pode ser nulo ou vazio!")
+	@Size(min = 3, max = 50, message = "O atributo Status deve ter no mínimo 3 e no máximo 50 caracteres")
 	private String status;
 	
 	@OneToMany(mappedBy = "statusTarefas", cascade = CascadeType.ALL)

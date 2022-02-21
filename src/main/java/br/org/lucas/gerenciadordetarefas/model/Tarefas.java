@@ -20,11 +20,11 @@ public class Tarefas {
 	private Long id;
 	
 	@NotBlank(message = "O atributo Descrição não pode ser nulo ou vazio!")
-	@Size(min = 5, max = 100, message = "O atributo título deve ter no mínimo 5 e no máximo 100 caracteres")
+	@Size(min = 5, max = 100, message = "O atributo Descrição deve ter no mínimo 5 e no máximo 100 caracteres")
 	private String descricao;
 	
 	@NotBlank(message = "O atributo Prioridade não pode ser nulo ou vazio!")
-	@Size(min = 5, max = 25, message = "O atributo título deve ter no mínimo 5 e no máximo 25 caracteres")
+	@Size(min = 3, max = 25, message = "O atributo Prioridade deve ter no mínimo 3 e no máximo 25 caracteres")
 	private String prioridade;
 	
 	@ManyToOne
