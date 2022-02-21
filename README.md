@@ -2,6 +2,8 @@
  
  <h1 align="left">Desafio Backend: App Gerenciador de Tarefas</h1>
  
+O objetivo deste desafio é a criação de uma API REST para um aplicativo de tarefas 
+ 
 Requisitos Desenvolvidos:
  
 - [x] Cadastro e Login do suário
@@ -11,13 +13,14 @@ Requisitos Desenvolvidos:
 - [x] Listagem de todas as Tarefas, Status e Usuários
 - [x] Listagens Específicas por Descrição e Prioridade das Tarefas
 - [x] Listagem Específica pelo Status associados as Tarefas
- 
- https://bityli.com/documentacaoswagger
 
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/wsCOnlCjs3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
- </iframe>
+Documentação do Swagger:
+
+https://bityli.com/documentacaoswagger
+
  
+
  <h2>Ferramentas Utilizadas:</h2>
  
  <table>
