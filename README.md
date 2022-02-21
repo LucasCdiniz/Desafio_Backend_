@@ -3,9 +3,7 @@
  <h1 align="left">Desafio Backend: App Gerenciador de Tarefas</h1>
  
  Caastro de Usuário:
- <p align="center">
-  <img src="![](https://i.imgur.com/BMFunjX.gif)" width="350">
-</p>
+![](https://i.imgur.com/BMFunjX.gif)
 
  <h2>Ferramentas Utilizadas:</h2>
  
