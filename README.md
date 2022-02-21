@@ -3,8 +3,9 @@
  <h1 align="left">Desafio Backend: App Gerenciador de Tarefas</h1>
  
 Cadastro de Usuários:
-file:///C:/Users/lucas/Downloads/UsuarioCadastroLogin%20(1).gif
- 
+<p align="center">
+  <img src="https://i.imgur.com/CPzqbMJ.gif" width="350">
+</p>
  <h2>Ferramentas Utilizadas:</h2>
  
  <table>
