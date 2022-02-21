@@ -3,8 +3,10 @@
  <h1 align="left">Desafio Backend: App Gerenciador de Tarefas</h1>
  
 Cadastro de Usuários:
-[img]https://i.imgur.com/BMFunjX.gif[/img]
-
+<p align="center">
+  <img src="https://i.imgur.com/BMFunjX.mp4" width="350">
+</p>
+ 
  <h2>Ferramentas Utilizadas:</h2>
  
  <table>
